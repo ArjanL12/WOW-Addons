@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="TOGGLEOBJECTIVES" header="HIDEOBJECTIVES" category="ADDONS">
+		HideObjectives.toggle()
+	</Binding>
+</Bindings>
